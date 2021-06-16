@@ -25,3 +25,6 @@ class User():
 		# Send a greet words to user
 		print('Hello, ' + self.last_name.title() + ' ' + ' welcome to Sharebee corporations!')
 
+
+		
+

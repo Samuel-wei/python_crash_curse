@@ -10,3 +10,4 @@ restaurant = Restaurant('KFC', 'Hamburg')
 print(restaurant.restaurant_name.title(), restaurant.cuisine_type)
 
 print("I like " + restaurant.restaurant_name.title() + '`s' + ' ' + restaurant.cuisine_type.title()  + '.')
+
